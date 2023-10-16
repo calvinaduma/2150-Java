@@ -1,9 +1,5 @@
 package cpsc2150.extendedTicTacToe;
-/**
- * @author Ketki Patel
- * @Version 1.0
- *
- */
+
 import java.util.*;
 
 import cpsc2150.extendedTicTacToe.models.BoardPosition;
