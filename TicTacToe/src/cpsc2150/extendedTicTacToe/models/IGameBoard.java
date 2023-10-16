@@ -1,10 +1,5 @@
 package cpsc2150.extendedTicTacToe.models;
 
-/**
- * @author Ketki Patel
- * @Version 1.0
- *
- */
 public interface IGameBoard {
     int MAX_ROW = 100, MAX_COL = 100, MAX_WIN = 25, MAX_PLAYERS = 10;
     int MIN_ROW = 3, MIN_COL = 3, MIN_WIN = 3, MIN_PLAYERS = 2;
