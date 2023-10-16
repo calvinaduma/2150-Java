@@ -1,11 +1,4 @@
 package cpsc2150.extendedTicTacToe.models;
-/**
- * @author Ketki Patel
- * @Version 1.0
- *
- * @invariant 0 <= row <= 5 AND 0 <= col <= 8
- *
- */
 
 public class BoardPosition {
     private int row;
