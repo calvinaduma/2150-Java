@@ -1,12 +1,5 @@
 package cpsc2150.extendedTicTacToe.models;
 
-/**
- * @author Ketki Patel
- * @Version 1.0
- *
- * @invariant 0 <= row <= 5 AND 0 <= col <= 8
- * @correspondence self = Board[row][col]
- */
 public class GameBoard extends AbsGameBoard implements IGameBoard {
     private int row = 0;
     private int column = 0;
